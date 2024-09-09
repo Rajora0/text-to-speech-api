@@ -1,0 +1,6 @@
+flask
+torch
+datasets
+transformers
+soundfile
+requests
